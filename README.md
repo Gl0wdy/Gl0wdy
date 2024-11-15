@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/glowdy/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Gl0wdy/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glowdy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gl0wdy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
