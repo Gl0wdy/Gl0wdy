@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">You can call me glowdy! Now i'm learning Django and freelancing on <a>href="https://kwork.ru/user/glowdycoder">kwork</a>.<br><br>Learning Python ~1 year. I specialize on backend development, parsing, creating bots and other IO-bound scripts. In future wanna know ML and data analysis.<br><br>I have a certain passion for statistical data and collecting something like this, so most of my repositories will be dedicated with that things.</h3>
+<h3 align="left">You can call me glowdy! Now i'm learning Django and freelancing on <a href="https://kwork.ru/user/glowdycoder">kwork</a>.<br><br>Learning Python ~1 year. I specialize on backend development, parsing, creating bots and other IO-bound scripts. In future wanna know ML and data analysis.<br><br>I have a certain passion for statistical data and collecting something like this, so most of my repositories will be dedicated with that things.</h3>
 
 ###
 
