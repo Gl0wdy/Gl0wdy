@@ -29,7 +29,7 @@
 ###
 
 <h3 align="left">API's, bots, scrappers, etc developer. Learning Python for 1,5 years.</h3>
-<h3 align="left">Pseudos: Glowdy, boneheaded</h3>
+<h4 align="left">Pseudos: Glowdy, boneheaded</h4>
 
 ###
 
