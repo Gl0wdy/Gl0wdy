@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">API's, bots, scrappers, etc developer. Learning Python for ~1,5 years. </h3>
+<h3 align="left">API's, bots, scrappers, etc developer. Learning Python for ~1 year. </h3>
 <h4 align="left">Stack: Django (Rest Framework too), selenium, BS4, AIOgram, basic asynchronious libs (like AIOhttp, AIOfiles, etc...)</h4>
 
 ###
