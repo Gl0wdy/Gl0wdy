@@ -1,4 +1,4 @@
-<h2 align="center">Hello there</h2>
+<h2 align="center">Sup! I'm glowdy</h2>
 
 ###
 
