@@ -1,3 +1,10 @@
-Intermediate: Python
-Begginer: C/C++
-soft developer. bots, scrappers, ai-products, etc...
+### Skill Levels
+
+- **Intermediate**: Python
+- **Beginner**: C, C++
+
+### Specialization
+Software Development:  
+*Bots, scrapers, AI products, and more...*
+
+just want to explore.
