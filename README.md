@@ -1,0 +1,3 @@
+Intermediate: Python
+Begginer: C/C++
+soft developer. bots, scrappers, ai-products, etc...
