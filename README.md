@@ -7,6 +7,6 @@ just want to explore.
 
 > ### Specialization
 > Software Development:  
-> *Bots, scrapers, AI products, etc...*
+> *Backend, Bots, scrapers, AI products, etc...*
 
 tg: @glowdy
