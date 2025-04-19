@@ -1,5 +1,3 @@
-just want to explore.
-
 > ### Skill Levels
 
 > - **Intermediate+**: Python
