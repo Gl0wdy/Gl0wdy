@@ -1,7 +1,11 @@
 ### Skill Levels
 
-`intermediate = "Python"`
-`char begginer = 'C'`
+```python
+intermediate = "Python"
+```
+```C
+char begginer = 'C'
+```
 
 ### Specialization
 Software Development:  
