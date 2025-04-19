@@ -1,10 +1,10 @@
-> ### Skill Levels
+### Skill Levels
 
-> - **Intermediate+**: Python
-> - **Beginner**: C, C++
+`intermediate = "Python"`
+- **Beginner**: C, C++
 
-> ### Specialization
-> Software Development:  
-> *Backend, Bots, scrapers, AI products, etc...*
+### Specialization
+Software Development:  
+*Backend, Bots, scrapers, AI products, etc...*
 
 tg: @glowdy
