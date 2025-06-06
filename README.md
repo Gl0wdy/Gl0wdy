@@ -1,6 +1,6 @@
 ```
 intermediate = "Python"
-char begzginer[] = "C++";
+char begginer[] = "C++";
 ```
 
 ### Specialization
