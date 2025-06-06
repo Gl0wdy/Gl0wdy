@@ -1,14 +1,10 @@
-### Skill Levels
-
-```python
-intermediate = "Python"
 ```
-```C
-char begginer = 'C';
+intermediate = "Python"
+char begzginer[] = "C++";
 ```
 
 ### Specialization
 Software Development:  
-*Backend, Bots, scrapers, AI products, etc...*
+*Backend, Bots, scrapers, AI-inclusive products, etc...*
 
 tg: @glowdy
