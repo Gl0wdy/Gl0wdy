@@ -1,5 +1,5 @@
 <div align="center">
-  ![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFiNjg2Z2pvNGN4djZoY2o4bnppMnhlMThncTBoZzl1dGgxOGEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWygW6t6TWtpUejD43/giphy.gif)
+  <div class="tenor-gif-embed" data-postid="19517648" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/anime-gif-19517648">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   <h1>sup, I'm Glowdy 🦴</h1>
   <p>backend dev · open source · building things that matter (to me)</p>
