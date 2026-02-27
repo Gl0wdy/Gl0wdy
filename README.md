@@ -31,8 +31,7 @@ class Developer:
 ## stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gl0wdy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl0wdy&layout=compact&theme=github_dark&hide_border=true" />
+   <img src="https://streak-stats.demolab.com?user=Gl0wdy&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
