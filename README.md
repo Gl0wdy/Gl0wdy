@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gl0wdy/Gl0wdy/main/assets/tutturu.gif" />
   <h1>sup, I'm Glowdy 🦴</h1>
+  <img src="https://raw.githubusercontent.com/Gl0wdy/Gl0wdy/main/assets/tutturu.gif" width="300" />
   <p>backend dev · open source · building things that matter (to me)</p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+spaghetti+code+since+2023;Python+%2F+Go+%2F;Always+be+shipping)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+spaghetti+code+since+2023;Python+%2F+Go2F;Always+be+shipping)](https://git.io/typing-svg)
 </div>
 
 ---
