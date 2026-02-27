@@ -1,5 +1,5 @@
 <div align="center">
-  ![gif](https://github.com/Gl0wdy/Gl0wdy/blob/main/assets/tutturu.gif?raw=true)
+  <img src="https://raw.githubusercontent.com/Gl0wdy/Gl0wdy/main/assets/tutturu.gif" />
   <h1>sup, I'm Glowdy 🦴</h1>
   <p>backend dev · open source · building things that matter (to me)</p>
 
