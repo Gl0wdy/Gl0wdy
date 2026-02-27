@@ -1,4 +1,6 @@
 <div align="center">
+  ![Tutturu.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFiNjg2Z2pvNGN4djZoY2o4bnppMnhlMThncTBoZzl1dGgxOGEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWygW6t6TWtpUejD43/giphy.gif)
+  
   <h1>sup, I'm Glowdy 🦴</h1>
   <p>backend dev · open source · building things that matter (to me)</p>
 
@@ -38,5 +40,5 @@ class Developer:
 
 ## contact
 
-[![Telegram](https://img.shields.io/badge/@username-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/glowdy)
-[![Email](https://img.shields.io/badge/your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](glowdyqq@email.com)
+[![Telegram](https://img.shields.io/badge/@glowdy-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/glowdy)
+[![Email](https://img.shields.io/badge/glowdyqq@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](glowdyqq@email.com)
