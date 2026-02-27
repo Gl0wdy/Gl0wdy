@@ -10,7 +10,7 @@
 
 ```python
 class Developer:
-    name    = "Your Name"
+    name    = "Glowdy"
     role    = "Backend Engineer"
     stack   = ["Python", "Go", "Docker"]
     now     = "EnneAI reborn!"
