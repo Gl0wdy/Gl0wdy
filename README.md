@@ -1,5 +1,5 @@
 <div align="center">
-  ![Tutturu.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFiNjg2Z2pvNGN4djZoY2o4bnppMnhlMThncTBoZzl1dGgxOGEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWygW6t6TWtpUejD43/giphy.gif)
+  ![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFiNjg2Z2pvNGN4djZoY2o4bnppMnhlMThncTBoZzl1dGgxOGEwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWygW6t6TWtpUejD43/giphy.gif)
   
   <h1>sup, I'm Glowdy 🦴</h1>
   <p>backend dev · open source · building things that matter (to me)</p>
