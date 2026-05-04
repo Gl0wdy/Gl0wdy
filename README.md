@@ -1,42 +1,25 @@
-<div align="center">
-  <h1>sup, I'm Glowdy 🦴</h1>
-  <img src="https://raw.githubusercontent.com/Gl0wdy/Gl0wdy/main/assets/tutturu.gif" width="380" />
-  <p>backend dev · open source · building things that matter (to me)</p>
+```
+$ whoami
+> gl0wdy — backend dev, data scientist, open source enjoyer
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+spaghetti+code+since+2023;Python+%2F+Go;Always+be+shipping)](https://git.io/typing-svg)
-</div>
+$ cat stack.txt
+> python (main) · go (learning)
+> backend · data science · tg bots
 
----
+$ cat projects.txt
+> [wip] EnneAI @ aPDB
+> [live] EnneAI @ typologyAIbot
 
-```python
-class Developer:
-    name    = "Glowdy"
-    role    = "Backend Engineer"
-    stack   = ["Python", "Go", "Docker"]
-    now     = "EnneAI reborn!"
+$ echo $CONTACT
+> t.me/glowdy
 ```
 
 ---
 
-## stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## stats
-
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=Gl0wdy&theme=github-dark-blue&hide_border=true" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gl0wdy&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=666666&icon_color=ffffff)](https://github.com/Gl0wdy)
+
+![snake](https://raw.githubusercontent.com/Gl0wdy/Gl0wdy/output/github-contribution-grid-snake-dark.svg)
+
 </div>
-
----
-
-## contact
-
-[![Telegram](https://img.shields.io/badge/@glowdy-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/glowdy)
-[![Email](https://img.shields.io/badge/glowdyqq@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](glowdyqq@email.com)
