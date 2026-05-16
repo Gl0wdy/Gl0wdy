@@ -1,6 +1,6 @@
 ```
 $ whoami
-> gl0wdy — backend dev, data scientist, open source enjoyer
+> gl0wdy — backend dev, data scientist wannabe, open source enjoyer
 
 $ cat stack.txt
 > python (main) · go (learning)
