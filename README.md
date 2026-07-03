@@ -3,11 +3,11 @@ $ whoami
 > gl0wdy — backend dev, data scientist wannabe, open source enjoyer
 
 $ cat stack.txt
-> python (main) · go (learning)
-> backend · data science · tg bots
+> python · go
+> backend · data science · whatever I want
 
 $ cat projects.txt
-> [wip] EnneAI @ aPDB
+> [wip] EnneAI @ Typikon
 > [live] EnneAI @ typologyAIbot
 
 $ echo $CONTACT
